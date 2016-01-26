@@ -9,3 +9,4 @@ a
 SD
 asd
 ;
+Mas cambios al personaje. Caso de uso 2
