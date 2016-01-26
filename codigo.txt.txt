@@ -1,0 +1,11 @@
+/// Inicilizar cosas
+hsp = 0;
+vsp = 0;
+jump = false;
+
+asaSDAS
+asd
+a
+SD
+asd
+;
