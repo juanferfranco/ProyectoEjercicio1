@@ -10,5 +10,3 @@ SD
 asd
 ;
 Mas cambios al personaje. Caso de uso 2
-
-Cambios hoy 1 de feb de 2015
